@@ -1,0 +1,39 @@
+ระบบสมุดบัญชีแยกประเภททั่วไปและระบบการรายงานทางธุรกิจ(General Ledger and Reporting cycle)
+http://www.bablog.mju.ac.th/orathai/wp-content/uploads/2012/10/Chapter_12.pdf
+
+บัญชีแยกประเภท
+supot149255519370.pdf
+http://suanpalm3.kmutnb.ac.th/teacher/FileDL/supot149255519370.pdf
+
+
+
+การกาหนดมาตรฐานคุณภาพของ software CMM & CMMI 
+http://it.tni.ac.th/files/2/files/pdf/Cmmi.pdf
+
+
+การพัฒนาซอฟต์แวร์โดยใช้สถาปัตยกรรม SOA ด้วยเทคโนโลยี WCF
+aw30.pdf
+http://www.bu.ac.th/knowledgecenter/executive_journal/oct_dec_10/pdf/aw30.pdf
+
+
+รูปแบบการพัฒนาซอฟต์แวร์
+05-002 คอมพิวเตอร์.PDF
+http://www.sme.go.th/th/images/data/es/download/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%20SMEs%20Knowledge%20Center/05%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%20IT,ICT/05-002%20%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C.PDF
+
+
+คุณภาพของซอฟต์แวร์และกระบวนการพัฒนา
+http://bls.buu.ac.th/~se888351/2557/12NOV18/SWQ2.pdf
+
+
+หลักการออกแบบโปรแกรมที่ดี
+http://www.cs.science.cmu.ac.th/person/watcharee/204112/Lecture/2553/ch01.pdf
+
+
+Software Quality Management
+Chapter8(16-301).pdf
+http://www.northcm.ac.th/~amphol/index.php?option=com_docman&task=doc_download&gid=50&Itemid=80&usg=AFQjCNEAI8plsjZn694QMyQW2ZD9M2gUvg&bvm=bv.122129774,d.c2I&cad=rja
+
+
+Software Design 
+Chapter5(16-301).pdf
+http%3A%2F%2Fwww.northcm.ac.th%2F~amphol%2Findex.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D47%26Itemid%3D72&usg=AFQjCNFzgjaXVdB8vui_9GH6rrz20qShOA&bvm=bv.122129774,d.c2I&cad=rja
